@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1502. Can Make Arithmetic Progression From Sequence", "1502. Can Make Arithmetic Progression From Sequence.csproj", "{11F922B0-2F98-44A2-BCAA-0B9602F35281}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11F922B0-2F98-44A2-BCAA-0B9602F35281}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11F922B0-2F98-44A2-BCAA-0B9602F35281}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11F922B0-2F98-44A2-BCAA-0B9602F35281}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11F922B0-2F98-44A2-BCAA-0B9602F35281}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E3946E3-51DB-406F-81D2-2B7FC771DD04}
+	EndGlobalSection
+EndGlobal

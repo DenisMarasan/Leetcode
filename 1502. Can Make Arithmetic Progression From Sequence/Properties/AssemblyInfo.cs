@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // Общие сведения об этой сборке предоставляются следующим набором
 // набора атрибутов. Измените значения этих атрибутов для изменения сведений,
 // связанные с этой сборкой.
-[assembly: AssemblyTitle("217. Contains Duplicate")]
+[assembly: AssemblyTitle("1502. Can Make Arithmetic Progression From Sequence")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("217. Contains Duplicate")]
+[assembly: AssemblyProduct("1502. Can Make Arithmetic Progression From Sequence")]
 [assembly: AssemblyCopyright("Copyright ©  2023")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // Следующий GUID представляет идентификатор typelib, если этот проект доступен из модели COM
-[assembly: Guid("ad75a117-d9df-47e6-a042-4d8d4e392a59")]
+[assembly: Guid("11f922b0-2f98-44a2-bcaa-0b9602f35281")]
 
 // Сведения о версии сборки состоят из указанных ниже четырех значений:
 //

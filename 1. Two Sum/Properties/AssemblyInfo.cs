@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // Общие сведения об этой сборке предоставляются следующим набором
 // набора атрибутов. Измените значения этих атрибутов для изменения сведений,
 // связанные с этой сборкой.
-[assembly: AssemblyTitle("121. Best Time to Buy and Sell Stock")]
+[assembly: AssemblyTitle("1. Two Sum")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("121. Best Time to Buy and Sell Stock")]
+[assembly: AssemblyProduct("1. Two Sum")]
 [assembly: AssemblyCopyright("Copyright ©  2023")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // Следующий GUID представляет идентификатор typelib, если этот проект доступен из модели COM
-[assembly: Guid("91a51f58-3427-4624-9814-447c37c3df95")]
+[assembly: Guid("0f03f30e-a579-4fc9-8c13-b8ed8e565ea3")]
 
 // Сведения о версии сборки состоят из указанных ниже четырех значений:
 //

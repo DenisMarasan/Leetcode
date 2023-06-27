@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{91A51F58-3427-4624-9814-447C37C3DF95}</ProjectGuid>
+    <ProjectGuid>{0F03F30E-A579-4FC9-8C13-B8ED8E565EA3}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_121.Best_Time_to_Buy_and_Sell_Stock</RootNamespace>
-    <AssemblyName>_121.Best_Time_to_Buy_and_Sell_Stock</AssemblyName>
+    <RootNamespace>_1.Two_Sum</RootNamespace>
+    <AssemblyName>_1.Two_Sum</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
