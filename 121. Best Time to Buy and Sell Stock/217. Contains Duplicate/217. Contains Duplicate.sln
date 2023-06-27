@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "217. Contains Duplicate", "217. Contains Duplicate.csproj", "{AD75A117-D9DF-47E6-A042-4D8D4E392A59}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD75A117-D9DF-47E6-A042-4D8D4E392A59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD75A117-D9DF-47E6-A042-4D8D4E392A59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD75A117-D9DF-47E6-A042-4D8D4E392A59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD75A117-D9DF-47E6-A042-4D8D4E392A59}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF5DC971-64A7-4900-A9AB-1E7F6CBBC16B}
+	EndGlobalSection
+EndGlobal

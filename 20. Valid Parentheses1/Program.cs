@@ -11,8 +11,9 @@ namespace _20.Valid_Parentheses1
     {
         static void Main(string[] args)
         {
-            string a = "([))]{}";
+            string a = "{[]}";
             Console.WriteLine(IsValid(a));
+            Console.WriteLine(IsValid2(a));
             Console.ReadKey();
         
             
@@ -52,6 +53,14 @@ namespace _20.Valid_Parentheses1
 
                 return true;
              }
+
+             bool IsValid2(string s)
+            {
+                while (s.Contains("()") || s.Contains("[]") || s.Contains("{}")) 
+                    s = s.Replace("()", "").Replace("[]", "").Replace("{}", "");
+
+                return s.Length == 0;
+            }
         }
     }
 }
